@@ -8,7 +8,6 @@
 -   **Métodos de Segurança e Autenticação**: Foi usado SpringSecurity e JWT.
 -   **Tratamento de Exceções**: Tratamento de exceções para os métodos de tópicos, usuários e cursos.
 -   **Migrations com Flyway**: Gerenciamento de versões do banco de dados com Flyway.
--   **Swagger**: Foi utilizado Swagger para projetar, documentar e consumir a API de forma fácil e eficiente.
 
 ## Tecnologias Utilizadas
 - **MySQL**
