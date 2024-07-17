@@ -1,0 +1,1 @@
+alter table topicos modify column data_atualizacao datetime default null;

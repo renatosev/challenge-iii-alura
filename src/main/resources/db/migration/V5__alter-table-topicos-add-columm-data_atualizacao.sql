@@ -1,0 +1,1 @@
+alter table topicos add column data_atualizacao datetime not null;
